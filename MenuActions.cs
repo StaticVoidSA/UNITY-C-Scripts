@@ -7,7 +7,7 @@ public class MenuActions : MonoBehaviour
 {	
 	public void MENU_ACTION_GotoPage(string sceneName)
 	{
-    // Used to navigate 
+    		// Used to navigate 
 		SceneManager.LoadScene (sceneName);
 	}
 }
